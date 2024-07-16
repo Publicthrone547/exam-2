@@ -1,0 +1,9 @@
+.bg-image {
+    background-image: url("../../img/header/rod-long-I79Pgmhmy5M-unsplash.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
